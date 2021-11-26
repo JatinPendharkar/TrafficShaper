@@ -1,6 +1,6 @@
 # TrafficShaper
 
-Problem Statement is given in TrafficShaper.pdf
+Problem Statement is given in TrafficShapper.pdf
 
 SIMULATION AND MODELLING OF TOKEN BUCKET TRAFFIC SHAPER – COMMUNICATION NETWORKS
 
